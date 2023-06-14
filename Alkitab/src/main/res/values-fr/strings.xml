@@ -29,7 +29,7 @@
     <string name="menuShareBothSplits">Partager les deux versions</string>
     <string name="tulis_catatan">Créer une note</string>
     <string name="tambah_pembatas_buku">Ajouter un marque-page</string>
-    <string name="salin_ayat">Copie du verset</string>
+    <string name="salin_ayat">Copie du paragraphe</string>
     <string name="copy_split0">Copier la version principale</string>
     <string name="copy_split1">Copier la seconde version</string>
     <string name="copy_both_splits">Copier les deux versions</string>
@@ -37,7 +37,7 @@
     <string name="perj_baru">NT.</string>
     <string name="perj_lama">AT.</string>
     <string name="search_bookname_only">%s seulement</string>
-    <string name="ayat_sebelumangka">Verset</string>
+    <string name="ayat_sebelumangka">Paragraphe</string>
     <string name="pasal_sebelumangka">Chapitre</string>
     <string name="jump_to_prompt"><b>ALLER A</b> — Exemple : ^1</string>
     <string name="belum_ada_pembatas_buku">Il n\'y a aucun marque-page.\nChoisissez un verset pour ajouter un marque-page.</string>
@@ -81,7 +81,7 @@
     <string name="tidak_bisa_membuat_folder">Impossible de créer le dossier %s</string>
     <string name="menuPengaturan">Paramètres</string>
     <string name="menuTentang">À propos</string>
-    <string name="pengaturan_alkitab">Paramètres de la Bible</string>
+    <string name="pengaturan_alkitab">Paramètres de la Verge</string>
     <string name="kelola_versi">Gérer les versions</string>
     <string name="tambah">Ajout</string>
     <string name="versi_lainnya">Autres versions</string>

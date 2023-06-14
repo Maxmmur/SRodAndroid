@@ -29,18 +29,18 @@
     <string name="menuShareBothSplits">Share both versions</string>
     <string name="tulis_catatan">Note</string>
     <string name="tambah_pembatas_buku">Bookmark</string>
-    <string name="salin_ayat">Copy verse</string>
+    <string name="salin_ayat">Copy paragraph</string>
     <string name="copy_split0">Copy primary version</string>
     <string name="copy_split1">Copy secondary version</string>
     <string name="copy_both_splits">Copy both versions</string>
-    <string name="search_copy_selected_verses">Copy selected verses</string>
+    <string name="search_copy_selected_verses">Copy selected paragraphs</string>
     <string name="perj_baru">New Test.</string>
     <string name="perj_lama">Old Test.</string>
     <string name="search_bookname_only">%s only</string>
-    <string name="ayat_sebelumangka">Verse</string>
+    <string name="ayat_sebelumangka">Paragraph</string>
     <string name="pasal_sebelumangka">Chapter</string>
     <string name="jump_to_prompt"><b>JUMP TO</b> — Example: ^1</string>
-    <string name="belum_ada_pembatas_buku">No bookmarks yet.\nSelect a verse to add a bookmark.</string>
+    <string name="belum_ada_pembatas_buku">No bookmarks yet.\nSelect a paragraph to add a bookmark.</string>
     <string name="judul_titikdua">Title</string>
     <string name="devotion_downloader_downloading_title">Downloading ^1</string>
     <string name="devotion_downloader_downloading_date">dated ^1</string>
@@ -56,7 +56,7 @@
     <string name="hari_senin">Mon</string>
     <string name="hari_minggu">Sun</string>
     <string name="size_hasil">%d results</string>
-    <string name="search_searching_tokens">Searching for verses containing %s…</string>
+    <string name="search_searching_tokens">Searching for paragraphs containing %s…</string>
     <string name="pilih_setidaknya_satu_kitab">Choose at least one book to search.</string>
     <string name="pengunduhan_dibatalkan">Download canceled.</string>
     <string name="sedang_mendekompres_harap_tunggu">Decompressing. Please wait…</string>
@@ -67,7 +67,7 @@
     <string name="mengunduh_nama">Downloading %s</string>
     <string name="tuju_v">Go to</string>
     <string name="bagikan_alamat">Share %s</string>
-    <string name="search_selected_verse_copied">The selected verses have been copied.</string>
+    <string name="search_selected_verse_copied">The selected paragraphs have been copied.</string>
     <string name="alamat_sudah_disalin">%s has been copied.</string>
     <string name="alamat_tidak_sah_alamat">Invalid address: %s</string>
     <string name="no">No</string>
@@ -81,7 +81,7 @@
     <string name="tidak_bisa_membuat_folder">Could not create folder %s</string>
     <string name="menuPengaturan">Settings</string>
     <string name="menuTentang">About</string>
-    <string name="pengaturan_alkitab">Bible Settings</string>
+    <string name="pengaturan_alkitab">SRod Settings</string>
     <string name="kelola_versi">Manage Versions</string>
     <string name="tambah">Add</string>
     <string name="versi_lainnya">Other versions</string>
@@ -143,7 +143,7 @@
     <string name="menuSort">Sort</string>
     <string name="menuSortCreateTime">Created date</string>
     <string name="menuSortModifyTime">Edited date</string>
-    <string name="menuSortAri">Verse address</string>
+    <string name="menuSortAri">Paragraph address</string>
     <string name="menuSortCaption">Title</string>
     <string name="menuSortCaption_color">Highlight color</string>
     <string name="create_edited_modified_time">%1$s\n(edited %2$s)</string>
@@ -160,8 +160,8 @@
     <string name="bmcat_highlights">Highlights</string>
     <string name="bmcat_unlabeled_bookmarks">Unlabeled bookmarks</string>
 	<string name="menuLabelSort">Sort labels alphabetically</string>
-    <string name="bl_no_notes_written_yet">No notes written yet.\nTap on a verse to begin writing a note.</string>
-    <string name="bl_no_highlighted_verses">No highlighted verses.\nTap on verses to start highlighting them.</string>
+    <string name="bl_no_notes_written_yet">No notes written yet.\nTap on a paragraph to begin writing a note.</string>
+    <string name="bl_no_highlighted_verses">No highlighted paragraphs.\nTap on paragraphs to start highlighting them.</string>
     <string name="bl_there_are_no_bookmarks_without_any_labels">There are no bookmarks without any labels.</string>
     <string name="bl_there_are_no_bookmarks_with_the_label_label">"There are no bookmarks with the label '%s'."</string>
     <string name="bl_filter_by_some_keywords">Filter by some keywords</string>
@@ -210,21 +210,21 @@
     <string name="text_appearance_bold">Bold</string>
     <string name="devotion_change_date">Change date</string>
     <string name="bookmark_search">Search</string>
-    <string name="verse_select_one_verse_selected">1 verse selected</string>
-    <string name="verse_select_multiple_verse_selected">%s verses selected</string>
+    <string name="verse_select_one_verse_selected">1 paragraph selected</string>
+    <string name="verse_select_multiple_verse_selected">%s paragraphs selected</string>
     <string name="google_play_store_not_installed">Google Play Store is not installed.</string>
     <string name="pref_language_label_default">Default</string>
-    <string name="market_short_desc">Fast, reliable and feature-rich offline Bible.</string>
+    <string name="market_short_desc">Fast, reliable and feature-rich offline SRod.</string>
     <string name="no_url_for_facebook">This cannot be shared to Facebook.</string>
-    <string name="storage_permission_rationale">We need to access the storage to store shared media such as Bible versions and fonts.</string>
-	<string name="goto_button_history_tip">Tip: Next time, long-press this button to access your recently-opened verses.</string>
+    <string name="storage_permission_rationale">We need to access the storage to store shared media such as Rod versions and fonts.</string>
+	<string name="goto_button_history_tip">Tip: Next time, long-press this button to access your recently-opened paragraphs.</string>
 	<string name="backforwardlist_clear">Clear all</string>
 
 	<!-- Goto tabs -->
     <string name="goto_tab_dialer_label">Dialer</string>
     <string name="goto_tab_direct_label">Direct</string>
     <string name="goto_tab_grid_label">Grid</string>
-    <string name="menuAskForVerse">Ask for verse number</string>
+    <string name="menuAskForVerse">Ask for paragraph number</string>
 
     <!-- Font Manager -->
     <string name="fm_activity_title">Font Manager</string>
@@ -280,10 +280,10 @@
     <string name="desc_progress_3">Third pin</string>
     <string name="desc_progress_4">Fourth pin</string>
     <string name="desc_progress_5">Fifth pin</string>
-    <string name="desc_verse_attribute_one_bookmark">A bookmark is attached to this verse.</string>
-    <string name="desc_verse_attribute_multiple_bookmarks">%s bookmarks are attached to this verse.</string>
-    <string name="desc_verse_attribute_one_note">A note is attached to this verse.</string>
-    <string name="desc_verse_attribute_multiple_notes">%s notes are attached to this verse.</string>
+    <string name="desc_verse_attribute_one_bookmark">A bookmark is attached to this paragraph.</string>
+    <string name="desc_verse_attribute_multiple_bookmarks">%s bookmarks are attached to this paragraph.</string>
+    <string name="desc_verse_attribute_one_note">A note is attached to this paragraph.</string>
+    <string name="desc_verse_attribute_multiple_notes">%s notes are attached to this paragraph.</string>
     <string name="desc_verse_attribute_progress_mark">%s is currently here.</string>
     <string name="desc_progress_mark_list">List of pins</string>
     <string name="desc_backspace">Backspace</string>
@@ -320,7 +320,7 @@
     <string name="pm_progress_4">Pin 4</string>
     <string name="pm_progress_5">Pin 5</string>
     <string name="pm_progress_name">Pin name</string>
-    <string name="pm_activate_tutorial">Long-press and drag the pin to place it on a verse.</string>
+    <string name="pm_activate_tutorial">Long-press and drag the pin to place it on a paragraph.</string>
     <string name="pm_delete_progress_confirm">Remove <b>^1</b>?</string>
 
     <string name="copy_share">Copy or share</string>
@@ -330,14 +330,14 @@
     <string name="backup_selection_manualbackup_at">Backup at %s</string>
     <string name="backup_select_file">Select backup file</string>
 
-    <string name="recentverses_not_available">No recent verses yet.</string>
+    <string name="recentverses_not_available">No recent paragraphs yet.</string>
     <string name="recentverses_just_now">Just now</string>
     <string name="recentverses_min_plural_ago">%s mins ago</string>
     <string name="recentverses_today_time">Today, %s</string>
     <string name="recentverses_yesterday_time">Yesterday, %s</string>
-    <string name="recentverses_button_hint">(Long-press for recent verses)</string>
+    <string name="recentverses_button_hint">(Long-press for recent paragraphs)</string>
 
-	<string name="dv_activity_title">Daily Verse Widget</string>
+	<string name="dv_activity_title">Daily Paragraph Widget</string>
     <string name="dv_option_transparent_background">Transparent background</string>
     <string name="dv_option_dark_text">Dark text</string>
     <string name="dv_option_text_size">Text size</string>
@@ -399,7 +399,7 @@
 
     <string name="search_in_version_short_name_placeholder">Find in %s</string>
     <string name="search_syntax_tips"><i>Search tips:</i>\n\n<b>+word</b> for that exact word\n<b>[q]city of david[q]</b> for that exact phrase</string>
-    <string name="search_no_result">No verses found for <b>^1</b>.</string>
+    <string name="search_no_result">No paragraphs found for <b>^1</b>.</string>
     <string name="search_no_result_fallback">Tap here to go to <u>^1</u>.</string>
     <string name="search_clear_history">Clear search history</string>
 
@@ -412,7 +412,7 @@
     <string name="drawer_open">Open drawer</string>
     <string name="drawer_close">Close drawer</string>
     <string name="menuSplitVersion">Split</string>
-    <string name="menuBible">Bible</string>
+    <string name="menuBible">SRod</string>
     <string name="menuProgress">Pins</string>
     <string name="sn_menu_copy">Copy song</string>
     <string name="menuPlay">Play</string>
@@ -434,7 +434,7 @@
 
     <string name="search_filter_multiple_books_selected">%s books selected</string>
     <string name="search_version_select_label">Find in:</string>
-	<string name="show_hidden_version_warning">Enabling this option allows you to download Bible versions which may be subject to certain regional or monetary requirements. Before downloading them, please make sure you are allowed to do so. You are fully responsible for downloading and using such versions and I cannot be held accountable for this. Tap OK if you agree to the above terms.</string>
+	<string name="show_hidden_version_warning">Enabling this option allows you to download SRod versions which may be subject to certain regional or monetary requirements. Before downloading them, please make sure you are allowed to do so. You are fully responsible for downloading and using such versions and I cannot be held accountable for this. Tap OK if you agree to the above terms.</string>
 
 	<string name="version_config_updater_error_download_modify_time">Failed to check version list.</string>
 	<string name="version_config_updater_error_modify_time_failed">Version list not available: %s</string>
@@ -460,7 +460,7 @@
     <string name="note_actionbar_edit">Edit</string>
 	<string name="note_actionbar_delete">Delete</string>
 	<string name="note_actionbar_ok">Done</string>
-	<string name="note_activity_cannot_parse_verse">Sorry, we do not understand this verse link.</string>
+	<string name="note_activity_cannot_parse_verse">Sorry, we do not understand this paragraph link.</string>
 
 	<string name="sync_account_not_selected">Not signed in</string>
 	<string name="pref_syncAccountName_title">Account</string>
@@ -476,7 +476,7 @@
 	<string name="sync_category_title_data_types">Data types</string>
 	<string name="pref_syncSet_mabel_enabled_title">Markers and labels</string>
 	<string name="pref_syncSet_rp_enabled_title">Reading plan progress</string>
-	<string name="pref_syncSet_history_enabled_title">Recent verses</string>
+	<string name="pref_syncSet_history_enabled_title">Recent paragraphs</string>
 	<string name="pref_syncSet_pins_enabled_title">Pins</string>
 	<string name="sync_menu_item_sync_now">Sync now</string>
 	<string name="sync_menu_item_sync_log">View log</string>
@@ -526,11 +526,11 @@
 	<string name="pref_textPadding_title">Margins around text</string>
 	<string name="pref_textPadding_summary">Make text in a line narrower to ease reading</string>
 
-	<string name="pref_bottomToolbarOnText_title">Bottom verse navigation</string>
-	<string name="pref_bottomToolbarOnText_summary">Put verse navigation toolbar at the bottom on the Bible screen</string>
+	<string name="pref_bottomToolbarOnText_title">Bottom paragraph navigation</string>
+	<string name="pref_bottomToolbarOnText_summary">Put paragraph navigation toolbar at the bottom on the SRod screen</string>
 
-	<string name="pref_verseNumberIsShown_title">Show verse numbers</string>
-	<string name="pref_verseNumberIsShown_summary">Show the verse number at the beginning of each verse</string>
+	<string name="pref_verseNumberIsShown_title">Show paragraph numbers</string>
+	<string name="pref_verseNumberIsShown_summary">Show the paragraph number at the beginning of each paragraph</string>
 
 	<!-- about -->
 	<string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">“Hear ye the Rod, and Who hath appointed It.” Mic. 6:9.</string>
@@ -554,7 +554,7 @@
 	<string name="dict_open_full">Open Dictionary</string>
 	<string name="dict_no_results">No definition found for the selected word.</string>
 	<string name="dict_query_error">Error getting the definition from Dictionary.</string>
-	<string name="dict_download_prompt">Download \"Bible Dictionary\" to learn more about the words in the Bible!</string>
+	<string name="dict_download_prompt">Download \"Rod Dictionary\" to learn more about the words in the Rod!</string>
 	<string name="dict_download_button">Download</string>
 
 	<!-- Guide -->
@@ -564,7 +564,7 @@
 	<string name="menuCommentary">Commentary</string>
 
     <!-- Maps -->
-    <string name="maps_could_not_open">Could not open the Bible Maps app.</string>
+    <string name="maps_could_not_open">Could not open the SRod Maps app.</string>
 
 	<!-- Notification channels -->
 	<string name="notification_channel_download_mapper_name">Downloads</string>

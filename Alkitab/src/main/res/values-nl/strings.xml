@@ -29,7 +29,7 @@
     <string name="menuShareBothSplits">Deel beide versies</string>
     <string name="tulis_catatan">Schrijf notitie</string>
     <string name="tambah_pembatas_buku">Voeg bladwijzer toe</string>
-    <string name="salin_ayat">Kopiëer vers</string>
+    <string name="salin_ayat">Kopiëer paragraaf</string>
     <string name="copy_split0">Kopieer primaire versie</string>
     <string name="copy_split1">Kopieer secundaire versie</string>
     <string name="copy_both_splits">Kopieer beide versies</string>
@@ -37,7 +37,7 @@
     <string name="perj_baru">Nieuwe Test.</string>
     <string name="perj_lama">Oude Test.</string>
     <string name="search_bookname_only">Alleen in %s</string>
-    <string name="ayat_sebelumangka">Vers</string>
+    <string name="ayat_sebelumangka">Paragraaf</string>
     <string name="pasal_sebelumangka">Hoofdstuk</string>
     <string name="jump_to_prompt"><b>GA NAAR</b> — Voorbeeld: ^1</string>
     <string name="belum_ada_pembatas_buku">Er zijn nog geen bladwijzers.\nSelecteer een vers om een bladwijzer toe te voegen.</string>
@@ -81,7 +81,7 @@
     <string name="tidak_bisa_membuat_folder">Kan map %s niet aanmaken</string>
     <string name="menuPengaturan">Instellingen</string>
     <string name="menuTentang">Over</string>
-    <string name="pengaturan_alkitab">Bijbel instellingen</string>
+    <string name="pengaturan_alkitab">HStaf instellingen</string>
     <string name="kelola_versi">Beheer versies</string>
     <string name="tambah">Toevoegen</string>
     <string name="versi_lainnya">Andere versies</string>
