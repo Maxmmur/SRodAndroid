@@ -492,14 +492,14 @@
     <string name="pref_verseNumberIsShown_title">Montrez les numéros de verset</string>
     <string name="pref_verseNumberIsShown_summary">Montrez les numéros de verset au début de chaque verset</string>
     <!-- about -->
-    <string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">Application Biblique 100% gratuite, sous licence Apache License 2.0</string>
+    <string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">“Hear ye the Rod, and Who hath appointed It.” Mic. 6:9.</string>
     <string name="about_translators">Traducteurs</string>
     <string name="about_user_guide">Guide de l\'utilisateur</string>
     <string name="about_version_name">version %s</string>
-    <string name="about_material_sources">Sources matérielles</string>
-    <string name="about_credits">Remerciements</string>
+    <string name="about_material_sources">iOS App</string>
+    <string name="about_credits">PC and Mac Folio</string>
     <string name="about_official_website">Site officiel</string>
-    <string name="about_project_page">Page de projet</string>
+    <string name="about_project_page">Email</string>
     <!-- Data transfer -->
     <!-- Dictionary -->
     <string name="menuDictionary">Dictionnaire</string>

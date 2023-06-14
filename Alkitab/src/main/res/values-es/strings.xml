@@ -493,14 +493,14 @@ Usted es completamente responsable al descargar y utilizar dichas versiones y yo
     <string name="pref_verseNumberIsShown_title">Mostrar número de versículos</string>
     <string name="pref_verseNumberIsShown_summary">Muestre el número del versículo al comienzo de cada versículo</string>
     <!-- about -->
-    <string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">La Biblia de libre acceso a través de la Licencia Apache 2.0</string>
+    <string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">“Hear ye the Rod, and Who hath appointed It.” Mic. 6:9.</string>
     <string name="about_translators">Traductores</string>
     <string name="about_user_guide">Guía de usuario</string>
     <string name="about_version_name">versión %s</string>
-    <string name="about_material_sources">Fuentes Materiales</string>
-    <string name="about_credits">Créditos</string>
+    <string name="about_material_sources">iOS App</string>
+    <string name="about_credits">PC and Mac Folio</string>
     <string name="about_official_website">Página web oficial</string>
-    <string name="about_project_page">La Página del Proyecto</string>
+    <string name="about_project_page">Email</string>
     <!-- Data transfer -->
     <!-- Dictionary -->
     <string name="menuDictionary">Diccionario</string>

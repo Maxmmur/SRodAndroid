@@ -533,14 +533,14 @@
 	<string name="pref_verseNumberIsShown_summary">Show the verse number at the beginning of each verse</string>
 
 	<!-- about -->
-	<string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">100% free Bible app, licensed under Apache License 2.0</string>
+	<string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">“Hear ye the Rod, and Who hath appointed It.” Mic. 6:9.</string>
 	<string name="about_translators">Translators</string>
 	<string name="about_user_guide">User\'s Guide</string>
 	<string name="about_version_name">version %s</string>
-	<string name="about_material_sources">Material Sources</string>
-	<string name="about_credits">Credits</string>
+	<string name="about_material_sources">iOS App</string>
+	<string name="about_credits">PC and Mac Folio</string>
     <string name="about_official_website">Official Website</string>
-    <string name="about_project_page">Project Page</string>
+    <string name="about_project_page">Email</string>
 
 	<!-- marker and label migration -->
 
