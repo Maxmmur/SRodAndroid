@@ -38,7 +38,7 @@ public class Fcm {
         }
 
         if (listener != null) listeners.add(listener);
-        registerInBackground();
+        //registerInBackground();
 
         return null;
     }
