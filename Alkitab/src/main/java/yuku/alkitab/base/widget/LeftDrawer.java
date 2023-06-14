@@ -96,6 +96,11 @@ public abstract class LeftDrawer extends NestedScrollView {
 			bDevotion.setVisibility(AppConfig.get().menuDevotion ? VISIBLE : GONE);
 		}
 
+		// hide reading plan completely, for now
+		if (!isInEditMode()) {
+			bReadingPlan.setVisibility(GONE);
+		}
+
 		bBible.setOnClickListener(v -> {
 			bBible_click();
 			closeDrawer();
