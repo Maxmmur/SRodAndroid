@@ -1,0 +1,5 @@
+@@@^Different versions of the SRod are available within this app. Simply tap the dropdown icon on the top bar right next to the version name and a version selector dialogue will appear.@8
+@@@0Initially, only this User Manual (code-named “Internal Version”) is included. Tap “Other Versions” to access the full list of available SRod translations/versions. Currently, there are 9 SRod versions that can be downloaded. @8
+@@@0All downloaded SRod versions are stored in your device's storage with the file format .yes, with each one taking around between 0.02 and 4.80 Mb of space. @8
+@@@0Each SRod version only needs to be downloaded @9once@7. The checkbox right next to the version name in the version list toggles the visibility of the version in the version selector in the main SRod reader.@8
+@@@0The versions can be rearranged by dragging them up or down in the “Downloaded” tab.@8

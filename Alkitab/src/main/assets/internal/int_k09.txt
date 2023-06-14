@@ -1,0 +1,3 @@
+@@@^This feature displays many different SRod translations of a specific paragraph at the same time.@8
+@@@0First, select a paragraph, then press the compare button located at the top, which will cause a dialog box to appear that displays the different translations of a paragraph. @8
+@@@0Tapping on a specific translation will automatically switch the SRod version to that of the version tapped.

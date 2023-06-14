@@ -1,0 +1,4 @@
+@@@^Adds a SRod widget to your homepage.@8
+@@@^In the widget, tap the left/right arrow to see other paragraphs. Tapping on the widget directly will open the SRod app.
+@@@^To add a widget to your home screen, hold down on your screen and select the widget option. In the list, search for the Shepherd’s Rod widget. A configuration page will open, allowing you to choose the following:@8@11. SRod version to display@12. Font size and color (Black or White)@13. Transparency of background
+@@@^To enable the widget, @6don't store the app in your SD card@5. Move the app to the internal memory by going to application settings, choosing Shepherd’s Rod and moving it to internal memory.

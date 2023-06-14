@@ -1,0 +1,4 @@
+@@@^The Progress Pin helps keep track of your SRod reading. @8
+@@@0You can mark the last paragraph that you've read, whether it be for expository purposes or daily reading. You can then navigate straight to that paragraph when you come back. @8
+@@@0To add a progress pin, open the left drawer menu and there will be 5 progress markers with unique colors. Hold down on any of them then drag them to paragraphs that you want marked to use them. @8
+@@@0To delete or change a progress pin's name, tap the pin in the paragraph. Tap the pins in the left drawer to jump to the marked paragraph. Tap on the horizontal menu with ellipsis to see the list of progress pins.

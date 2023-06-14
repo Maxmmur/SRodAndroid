@@ -1,0 +1,8 @@
+@@@^Syncing is done directly through the app, and all necessary data is saved on cloud servers.@8
+@@@0To sync your data, go to the settings menu and tap Sync. You will need to create an account with your email address to use this feature.@8
+@@@0If the sync succeeds, a new page will appear, allowing you to select what data you would like to sync. To retrieve previously-synced data, you will need to login to the same account.@8
+@@@0There are several data that can be synced: markers, paragraph history, reading plan schedule, pins (progress marks).@8
+@@@0In the sync page, you can see the last time you successfully synced your data and its revision number. E.g. r380 means that your data is in its 380th revision. Every time your data is changed and synced, the revision number will increase.
+@@@^In case you forget your password, tap on Forgot and password reset instructions will be sent to your email account.@8
+@@@^Sometimes, sync data conflicts, especially if multiple synced devices were modified before syncing the data again. @8
+@@@0Instead of completely messing up the data, the differing data is combined together. For example, if the original word was "Location", and it is modified to become "Permanent Location" on one device and "Home Location" on the other, the synced data will be ">Permanent<>Home<Location".

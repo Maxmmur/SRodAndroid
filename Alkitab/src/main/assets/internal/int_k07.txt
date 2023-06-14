@@ -1,0 +1,11 @@
+@@@^Markers are available to mark, organize and add notes to paragraphs. Select a paragraph then tap the + icon in the @9Paragraph Menu@7 to add markers. Three kinds of markers can be added: bookmarks, notes and highlights.
+@@@^A bookmark can save a paragraph for easy access later. A small icon will appear beside the paragraph if it is successfully bookmarked. @8
+@@@0Select paragraph(s) then tap the + icon in the @9Paragraph Menu@7 and choose @9Add bookmark@7. Labels can be added onto the bookmark to indicate categories/themes.
+@@@^Add a note to selected paragraph(s)@8
+@@@0Select paragraph(s) then tap the + icon in @9Paragraph Menu@7 and choose @9Add Note@7. Paragraph links can be embedded within notes for reference purposes. For example, typing Sr1 3 will automatically create a link to The Shepherd's Rod Volume 1, page 3.@8
+@@@0Holding down and selecting parts of a note will open the menu to select, copy or cut the note.
+@@@^Highlighting will add a background color to selected paragraph(s)@8
+@@@^Select a paragraph, and choose to add a highlight. The selected paragraph will be shown in the highlight color selection dialog, and you can drag the selection handle to modify the part of the paragraph that will be highlighted. Do not forget to choose the highlight color for that paragraph, otherwise the paragraph won't be highlighted.@8
+@@@0However, as some of you might have guessed, the partial highlight only works for one specific SRod version at a time. For example, if you highlight the paragraph partially in ENGLISH, when you switch to a different SRod version, you will see the highlight as a full-paragraph highlight. It's very hard to determine which word to highlight in many different languages at one time. But if you go back to ENGLISH again, your partial highlight will still be saved. Also, this partial highlight option will not appear when you select more than one paragraph at a time.
+@@@^Open the left drawer menu and select Markers to access all your markers.@8
+@@@0Holding down a label will allow you to edit it. The labels can be rearranged by dragging them up or down.

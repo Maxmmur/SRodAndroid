@@ -1,0 +1,4 @@
+@@@^Tap/Select paragraph(s) and menus will appear on the top bar:@8
+@@@0Compare - Shows multiple translations of a SRod paragraph
+@@@0Add markers (with + symbol) - Has 3 sub-menus: Add bookmark, Write notes and Add highlight
+@@@0Overflow menu – Currently, there are 2 sub-menus: Copy, Share.

@@ -1,0 +1,13 @@
+@@@^To navigate through the SRod, tap the book name and page number at the top. The navigation menu will open, giving three options to navigate through the SRod: @9Dialer@7, @9Direct@7 and @9Grid@7.@8
+@@@0Holding down the navigation button will open the paragraph history.@8
+@@@^By default, opening the navigation menu immediately opens the dialer mode, where you can choose a book from the Books/Periodicals, the page and the paragraph.@8
+@@@^Direct mode allows you to directly type the paragraph you are looking for. Type the first three letters of the book name, followed by a space, the page number, then a space or colon, then finally the paragraph number. E.g. SR1 13:1 and 1SC1 2 3 (Vol. 1 The Symbolic Code No. 1 page 2 par. 5)@8
+@@@0You can also type the following:@8
+@@@0Page only - Leads to a different page in the same book. E.g. 8
+@@@0Page and paragraph - Leads to a different page and paragraph of the same book. E.g. 3 16, 12:4
+@@@0Book name only - Leads to a different book. E.g. Tn1, Whr (The White-House Recruiter), FB (Fundamental Beliefs and Directory)
+@@@0Book name and page (no space) - Leads to a specific page in a specific book. E.g. Gcs3, Ew18.
+@@@^Grid mode allows you to select a specific book, page and paragraph from a grid.@8
+@@@^Pressing the left or right arrow next to the book name/page number will switch pages.@8
+@@@0Swiping left/right with one finger in the screen will also switch the page.
+@@@0Two fingers swipe left/right will swipe page(s) quickly.

@@ -1,0 +1,11 @@
+@@@^The display can be modified to suit your preferences and improve your reading experience.@8
+@@@0There are 7 customizable elements:@8@4Night Mode@4Full Screen@4Split Mode@4Font Type@4Font Weight@4Text Size@4Line Height@4Themes
+@@@^Night mode darkens the display to ease reading in a dark place so that your eyes won't be as strained. To activate it, open the left drawer menu and turn on the toggle for Night Mode
+@@@^Full Screen Mode removes all non-SRod displays and only retains the SRod Paragraphs on screen. To access it, open the left drawer menu and turn on the toggle for Full Screen Mode.@8
+@@@0To quickly access Full Screen Mode, just swipe the screen in a vertical manner with two fingers.
+@@@^Split Mode shows two different SRod versions at the same time, allowing for easy comparison between two different versions.@8
+@@@0In Split Mode, a bar appears in the middle of the screen to separate the two different versions. This bar can be dragged to adjust the height. The split can be switched between a horizontal and a vertical split by tapping the small button in the middle of the bar.
+@@@^Tap @9Display@7 after opening the left drawer menu to customize the font. @8
+@@@0Tap @9Download more fonts@7 to see a list of downloadable fonts, which will be usable immediately after download.
+@@@^This option lets you customize font style, size and line spacing, as well as the color theme of the SRod. Default themes are available, as well as custom color themes that you can create yourself. The background, text, Words in color and paragraph number colors can be customized.
+@@@^Pinch to quickly zoom in/out (adjust text size quickly).
