@@ -75,7 +75,7 @@ class VersionsActivity : BaseActivity() {
         }
 
         // try to auto-update version list
-        VersionConfigUpdaterService.checkUpdate(true)
+        //VersionConfigUpdaterService.checkUpdate(true)
     }
 
     private fun processIntent(intent: Intent) {
