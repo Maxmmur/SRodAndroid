@@ -10,7 +10,7 @@
 	<string name="pref_alphabeticBookSort_key" translatable="false">sortKitabAlfabet</string>
 
 	<!-- defined in pref_language_default.xml : pref_bahasa_default -->
-	<string name="pref_language_key" translatable="false">bahasa</string>
+	<string name="pref_language_key" translatable="false">english</string>
 
 	<string name="pref_textColor_key" translatable="false">warnaHuruf</string>
 	<string name="pref_backgroundColor_key" translatable="false">warnaLatar</string>
