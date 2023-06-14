@@ -55,19 +55,19 @@ class AboutActivity : BaseActivity() {
         bHelp = findViewById(R.id.bHelp)
         bHelp.setOnClickListener {
             trackEvent("help_button_guide")
-            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://alkitab.app/guide?utm_source=app&utm_medium=button&utm_campaign=help")))
+            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://gadsda.com/app")))
         }
 
         bMaterialSources = findViewById(R.id.bMaterialSources)
         bMaterialSources.setOnClickListener {
             trackEvent("help_button_material_sources")
-            startActivity(HelpActivity.createIntent("help/material_sources.html", getString(R.string.about_material_sources)))
+            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://apps.apple.com/app/the-shepherds-rod-series/id1640958529")))
         }
 
         bCredits = findViewById(R.id.bCredits)
         bCredits.setOnClickListener {
             trackEvent("help_button_credits")
-            startActivity(HelpActivity.createIntent("help/credits.html", getString(R.string.about_credits)))
+            startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://gadsda.com/shepherds-rod-folio/")))
         }
 
         imgLogo.setImageDrawable(ResourcesCompat.getDrawableForDensity(resources, R.mipmap.ic_launcher, DisplayMetrics.DENSITY_XXXHIGH, null))
