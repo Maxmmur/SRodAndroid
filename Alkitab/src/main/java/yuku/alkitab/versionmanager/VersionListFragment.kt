@@ -330,7 +330,7 @@ class VersionListFragment : Fragment(), QueryTextReceiver {
         fun reload() {
             val items = mutableListOf<Item>()
             // internal
-            items.add(Item(S.getMVersionInternal()))
+//            items.add(Item(S.getMVersionInternal()))
 
             val presetsInDb = mutableMapOf<String, MVersionDb>()
 

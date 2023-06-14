@@ -239,7 +239,7 @@ object S {
         val res = mutableListOf<MVersion>()
 
         // 1. Internal version
-        res.add(getMVersionInternal())
+        //res.add(getMVersionInternal())
 
         // 2. Database versions
         for (mvDb in db.listAllVersions()) {
