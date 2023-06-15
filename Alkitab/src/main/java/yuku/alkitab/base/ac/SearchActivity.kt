@@ -300,6 +300,8 @@ class SearchActivity : BaseActivity() {
         hiliteColor = TextColorUtil.getSearchKeywordByBrightness(applied.backgroundBrightness)
 
         bEditFilter.setOnClickListener { bEditFilter_click() }
+        //hide advanced filter button for now
+        bEditFilter.isVisible = false
         cFilterOlds.setOnCheckedChangeListener(cFilterOlds_checkedChange)
         cFilterNews.setOnCheckedChangeListener(cFilterNews_checkedChange)
         cFilterSingleBook.setOnCheckedChangeListener(cFilterSingleBook_checkedChange)
@@ -362,26 +364,34 @@ class SearchActivity : BaseActivity() {
         val olds = run {
             var c_on = 0
             var c_off = 0
-            for (i in 0..38) {
+            for (i in 0..78) {
                 val on = selectedBookIds[i, false]
                 if (on) c_on++ else c_off++
             }
+
+            for (i in 125..134) {
+                val on = selectedBookIds[i, false]
+                if (on) c_on++ else c_off++
+            }
+
+
+
             when {
-                c_on == 39 -> true
-                c_off == 39 -> false
+                c_on == 89 -> true
+                c_off == 89 -> false
                 else -> null
             }
         }
         val news = run {
             var c_on = 0
             var c_off = 0
-            for (i in 39..65) {
+            for (i in 79..124) {
                 val nyala = selectedBookIds[i, false]
                 if (nyala) c_on++ else c_off++
             }
             when {
-                c_on == 27 -> true
-                c_off == 27 -> false
+                c_on == 46 -> true
+                c_off == 46 -> false
                 else -> null
             }
         }
