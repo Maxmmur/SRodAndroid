@@ -619,6 +619,7 @@ class IsiActivity : BaseLeftDrawerActivity(), LeftDrawer.Text.Listener {
             val menuCommentary = menu.findItem(R.id.menuCommentary)
             val menuDictionary = menu.findItem(R.id.menuDictionary)
 
+
             // force-show these items on sw600dp, otherwise never show
             val showAsAction = if (resources.configuration.smallestScreenWidthDp >= 600) MenuItem.SHOW_AS_ACTION_ALWAYS else MenuItem.SHOW_AS_ACTION_NEVER
             menuGuide.setShowAsActionFlags(showAsAction)
@@ -631,7 +632,9 @@ class IsiActivity : BaseLeftDrawerActivity(), LeftDrawer.Text.Listener {
             menuCommentary.isVisible = c.menuCommentary
 
             // do not show dictionary item if not needed because of auto-lookup from
-            menuDictionary.isVisible = c.menuDictionary && !Preferences.getBoolean(getString(R.string.pref_autoDictionaryAnalyze_key), resources.getBoolean(R.bool.pref_autoDictionaryAnalyze_default))
+//            menuDictionary.isVisible = c.menuDictionary && !Preferences.getBoolean(getString(R.string.pref_autoDictionaryAnalyze_key), resources.getBoolean(R.bool.pref_autoDictionaryAnalyze_default))
+            //hide dictionary item
+            menuDictionary.isVisible = false
 
             val menuRibkaReport = menu.findItem(R.id.menuRibkaReport)
             menuRibkaReport.isVisible = single && checkRibkaEligibility() != RibkaEligibility.None
