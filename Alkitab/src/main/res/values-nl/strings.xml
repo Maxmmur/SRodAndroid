@@ -33,14 +33,14 @@
     <string name="copy_split0">Kopieer primaire versie</string>
     <string name="copy_split1">Kopieer secundaire versie</string>
     <string name="copy_both_splits">Kopieer beide versies</string>
-    <string name="search_copy_selected_verses">Kopieer geselecteerde verzen</string>
+    <string name="search_copy_selected_verses">Kopieer geselecteerde paragraaf</string>
     <string name="perj_baru">Nieuwe Test.</string>
     <string name="perj_lama">Oude Test.</string>
     <string name="search_bookname_only">Alleen in %s</string>
     <string name="ayat_sebelumangka">Paragraaf</string>
-    <string name="pasal_sebelumangka">Hoofdstuk</string>
+    <string name="pasal_sebelumangka">Bladzijde</string>
     <string name="jump_to_prompt"><b>GA NAAR</b> — Voorbeeld: ^1</string>
-    <string name="belum_ada_pembatas_buku">Er zijn nog geen bladwijzers.\nSelecteer een vers om een bladwijzer toe te voegen.</string>
+    <string name="belum_ada_pembatas_buku">Er zijn nog geen bladwijzers.\nSelecteer een paragraaf om een bladwijzer toe te voegen.</string>
     <string name="judul_titikdua">TITEL</string>
     <string name="devotion_downloader_downloading_title">Downloaden van ^1</string>
     <string name="devotion_downloader_downloading_date">datum ^1</string>
@@ -56,7 +56,7 @@
     <string name="hari_senin">Ma</string>
     <string name="hari_minggu">Zo</string>
     <string name="size_hasil">%d resultaten</string>
-    <string name="search_searching_tokens">Zoeken naar verzen met %s...</string>
+    <string name="search_searching_tokens">Zoeken naar paragraafs met %s...</string>
     <string name="pilih_setidaknya_satu_kitab">Kies tenminste één Bijbelboek om te zoeken.</string>
     <string name="pengunduhan_dibatalkan">Download geannuleerd.</string>
     <string name="sedang_mendekompres_harap_tunggu">Uitpakken. Even geduld&#8230;</string>
@@ -67,7 +67,7 @@
     <string name="mengunduh_nama">Downloaden van %s</string>
     <string name="tuju_v">Ga naar</string>
     <string name="bagikan_alamat">Deel %s</string>
-    <string name="search_selected_verse_copied">De geselecteerde verzen zijn gekopieerd.</string>
+    <string name="search_selected_verse_copied">De geselecteerde paragraafs zijn gekopieerd.</string>
     <string name="alamat_sudah_disalin">%s is gekopiëerd.</string>
     <string name="alamat_tidak_sah_alamat">Ongeldig adres: %s</string>
     <string name="no">Nee</string>
@@ -157,8 +157,8 @@
     <string name="bmcat_highlights">Markeringen</string>
     <string name="bmcat_unlabeled_bookmarks">Ongelabelde bladwijzers</string>
     <string name="menuLabelSort">Sorteer labels op alphabet</string>
-    <string name="bl_no_notes_written_yet">Er zijn nog geen notities geschreven.\nKlik op een vers om een notitie te schrijven.</string>
-    <string name="bl_no_highlighted_verses">Er zijn geen gemarkeerde verzen.\nKlik op een vers om het te markeren.</string>
+    <string name="bl_no_notes_written_yet">Er zijn nog geen notities geschreven.\nKlik op een paragraaf om een notitie te schrijven.</string>
+    <string name="bl_no_highlighted_verses">Er zijn geen gemarkeerde paragraafs.\nKlik op een paragraafs om het te markeren.</string>
     <string name="bl_there_are_no_bookmarks_without_any_labels">Er zijn geen bladwijzers zonder labels.</string>
     <string name="bl_there_are_no_bookmarks_with_the_label_label">"Er zijn geen bladwijzers met het label \'%s\'."</string>
     <string name="bl_filter_by_some_keywords">Filter via sleutelwoorden</string>
@@ -200,20 +200,20 @@
     <string name="text_appearance_bold">Vet</string>
     <string name="devotion_change_date">Wijzig datum</string>
     <string name="bookmark_search">Zoeken</string>
-    <string name="verse_select_one_verse_selected">1 vers geselecteerd</string>
-    <string name="verse_select_multiple_verse_selected">%s verzen geselecteerd</string>
+    <string name="verse_select_one_verse_selected">1 paragraaf geselecteerd</string>
+    <string name="verse_select_multiple_verse_selected">%s paragraafs geselecteerd</string>
     <string name="google_play_store_not_installed">Google Play Store is niet geïnstalleerd.</string>
     <string name="pref_language_label_default">Standaard</string>
-    <string name="market_short_desc">Snel, betrouwbaar en veel functies offline Bijbel.</string>
+    <string name="market_short_desc">Snel, betrouwbaar en veel functies offline HStaf.</string>
     <string name="no_url_for_facebook">Dit kan niet met Facebook worden gedeeld.</string>
-    <string name="storage_permission_rationale">We hebben toegang tot de opslag nodig om gedeelde media zoals Bijbel versies en lettertypes opteslaan.</string>
-    <string name="goto_button_history_tip">Tip voor een volgende keer: houd deze knop ingedrukt om je laatst geopende verzen te zien.</string>
+    <string name="storage_permission_rationale">We hebben toegang tot de opslag nodig om gedeelde media zoals HStaf versies en lettertypes opteslaan.</string>
+    <string name="goto_button_history_tip">Tip voor een volgende keer: houd deze knop ingedrukt om je laatst geopende paragraafs te zien.</string>
     <string name="backforwardlist_clear">Wis alles</string>
     <!-- Goto tabs -->
     <string name="goto_tab_dialer_label">Kiezer</string>
     <string name="goto_tab_direct_label">Direct</string>
     <string name="goto_tab_grid_label">Tabel</string>
-    <string name="menuAskForVerse">Vraag het vers nummer</string>
+    <string name="menuAskForVerse">Vraag het paragraaf nummer</string>
     <!-- Font Manager -->
     <string name="fm_activity_title">Lettertype Manager</string>
     <string name="fm_need_to_log_in_to_wifi">Je dient eerst in te loggen op een (Wifi) netwerk.</string>
@@ -253,8 +253,8 @@
     <string name="desc_delete">Verwijder</string>
     <string name="desc_change_selected_books">Wijzig de geselecteerde boeken</string>
     <string name="desc_download">Download</string>
-    <string name="desc_previous_chapter">Vorig hoofdstuk</string>
-    <string name="desc_next_chapter">Volgende hoofdstuk</string>
+    <string name="desc_previous_chapter">Vorig bladzijde</string>
+    <string name="desc_next_chapter">Volgende bladzijde</string>
     <string name="desc_drag_to_reorder_labels">Sleep om labels te sorteren</string>
     <string name="desc_drag_to_reorder_versions">Sleep om de versies te sorteren</string>
     <string name="desc_close">Sluiten</string>
@@ -264,10 +264,10 @@
     <string name="desc_progress_3">Derde voortgang</string>
     <string name="desc_progress_4">Vierde voortgang</string>
     <string name="desc_progress_5">Vijfde voortgang</string>
-    <string name="desc_verse_attribute_one_bookmark">Een markering is gekoppeld aan dit vers.</string>
-    <string name="desc_verse_attribute_multiple_bookmarks">%s markeringen zijn aan dit vers gekoppeld.</string>
-    <string name="desc_verse_attribute_one_note">Er is een notitie andere dit vers gekoppeld.</string>
-    <string name="desc_verse_attribute_multiple_notes">%s notities zijn gekoppeld aan dit vers.</string>
+    <string name="desc_verse_attribute_one_bookmark">Een markering is gekoppeld aan dit paragraaf.</string>
+    <string name="desc_verse_attribute_multiple_bookmarks">%s markeringen zijn aan dit paragraaf gekoppeld.</string>
+    <string name="desc_verse_attribute_one_note">Er is een notitie andere dit paragraaf gekoppeld.</string>
+    <string name="desc_verse_attribute_multiple_notes">%s notities zijn gekoppeld aan dit paragraaf.</string>
     <string name="desc_verse_attribute_progress_mark">%s is op dit moment hier.</string>
     <string name="desc_progress_mark_list">Lijst over pins</string>
     <string name="desc_backspace">Backspace</string>
@@ -301,19 +301,19 @@
     <string name="pm_progress_4">Voortgang 4</string>
     <string name="pm_progress_5">Voortgang 5</string>
     <string name="pm_progress_name">Naam voortgang</string>
-    <string name="pm_activate_tutorial">Ingedrukt houden en slepen om een voortgangsindicator op een vers te plaatsen.</string>
+    <string name="pm_activate_tutorial">Ingedrukt houden en slepen om een voortgangsindicator op een paragraaf te plaatsen.</string>
     <string name="pm_delete_progress_confirm"><b>^1</b> verwijderen?</string>
     <string name="copy_share">Kopiëer of deel</string>
     <string name="backup_last_time">Laatst reservekopie: %s</string>
     <string name="backup_selection_autobackup_at">Auto reservekopie op %s</string>
     <string name="backup_selection_manualbackup_at">Reservekopie op %s</string>
     <string name="backup_select_file">Selecteer een reservekopie</string>
-    <string name="recentverses_not_available">Er zijn nog geen recente versies.</string>
+    <string name="recentverses_not_available">Er zijn nog geen recente paragraafs.</string>
     <string name="recentverses_just_now">Nu</string>
     <string name="recentverses_min_plural_ago">%s minuten geleden</string>
     <string name="recentverses_today_time">Vandaag, %s</string>
     <string name="recentverses_yesterday_time">Gisteren, %s</string>
-    <string name="recentverses_button_hint">(Ingedrukt houden voor recente verzen)</string>
+    <string name="recentverses_button_hint">(Ingedrukt houden voor recente paragraafs)</string>
     <string name="dv_activity_title">Dagelijks Vers Widget</string>
     <string name="dv_option_transparent_background">Transparante achtergrond</string>
     <string name="dv_option_dark_text">Donkere tekst</string>
@@ -372,7 +372,7 @@
     <string name="song_player_error_message">Er is een fout opgetreden bij het afspelen van dit lied: ^1.</string>
     <string name="search_in_version_short_name_placeholder">Zoeken in %s</string>
     <string name="search_syntax_tips"><i>Zoektips:</i>\n\n<b>+woord</b> voor dit exacte woord\n<b>[q]stad van David[q]</b> voor deze exacte zin</string>
-    <string name="search_no_result">Geen verzen gevonden voor <b>^1</b>.</string>
+    <string name="search_no_result">Geen paragraafs gevonden voor <b>^1</b>.</string>
     <string name="search_no_result_fallback">Klik hier om naar <u>^1</u> te gaan.</string>
     <string name="search_clear_history">Verwijder zoek geschiedenis</string>
     <string name="marker_transfer_to_device_title">Verplaats naar een ander apparaat</string>
@@ -383,7 +383,7 @@
     <string name="drawer_open">Open de lade</string>
     <string name="drawer_close">Sluit de lade</string>
     <string name="menuSplitVersion">Gedeelde weergave</string>
-    <string name="menuBible">Bijbel</string>
+    <string name="menuBible">Hstaf</string>
     <string name="menuProgress">Voortgang</string>
     <string name="sn_menu_copy">Kopieer lied</string>
     <string name="menuPlay">Afspelen</string>
@@ -403,7 +403,7 @@
     <string name="book_filter_new_apocalypse">Openbaring</string>
     <string name="search_filter_multiple_books_selected">%s boeken geselecteerd</string>
     <string name="search_version_select_label">Zoeken in:</string>
-    <string name="show_hidden_version_warning">Inschakelen van deze optie geeft je de mogelijkheid om Bijbelversies te downloaden die onderworpen kunnen zijn aan bepaalde regionale beperkingen. Voordat je ze download, controleer of je de nodige toestemming hebt. Je bent volledig verantwoordelijk voor het downloaden en gebruiken van deze versies, ik kan hier niet verantwoordelijk voor worden gehouden. Klik op OK als je akkoord gaat met bovenstaande.</string>
+    <string name="show_hidden_version_warning">Inschakelen van deze optie geeft je de mogelijkheid om HStafversies te downloaden die onderworpen kunnen zijn aan bepaalde regionale beperkingen. Voordat je ze download, controleer of je de nodige toestemming hebt. Je bent volledig verantwoordelijk voor het downloaden en gebruiken van deze versies, ik kan hier niet verantwoordelijk voor worden gehouden. Klik op OK als je akkoord gaat met bovenstaande.</string>
     <string name="version_config_updater_error_download_modify_time">Fout bij controleren van de versielijst.</string>
     <string name="version_config_updater_error_modify_time_failed">Versielijst is niet beschikbaar: %s</string>
     <string name="version_config_updater_no_newer_available">Geen versie updates gevonden.</string>
@@ -425,7 +425,7 @@
     <string name="note_actionbar_edit">Wijzigen</string>
     <string name="note_actionbar_delete">Verwijder</string>
     <string name="note_actionbar_ok">Klaar</string>
-    <string name="note_activity_cannot_parse_verse">Sorry, we begrijpen deze vers-link niet.</string>
+    <string name="note_activity_cannot_parse_verse">Sorry, we begrijpen deze paragraaf-link niet.</string>
     <string name="sync_account_not_selected">Niet ingelogd</string>
     <string name="pref_syncAccountName_title">Account</string>
     <string name="sync_logout_warning">Wil je uitloggen? Je huidige bladwijzers, notities en andere lokale gegevens zullen niet worden verwijderd.</string>
@@ -440,7 +440,7 @@
     <string name="sync_category_title_data_types">Datatypen</string>
     <string name="pref_syncSet_mabel_enabled_title">Markeringen en labels</string>
     <string name="pref_syncSet_rp_enabled_title">Leesplan is actief</string>
-    <string name="pref_syncSet_history_enabled_title">Recente verzen</string>
+    <string name="pref_syncSet_history_enabled_title">Recente paragraafs</string>
     <string name="pref_syncSet_pins_enabled_title">Pins</string>
     <string name="sync_menu_item_sync_now">Synchroniseer nu</string>
     <string name="sync_menu_item_sync_log">Bekijk log</string>
@@ -487,10 +487,10 @@
     <string name="sync_login_form_change_password_success">Je wachtwoord is gewijzigd.</string>
     <string name="pref_textPadding_title">Marges rondom de tekst</string>
     <string name="pref_textPadding_summary">Maak tekst in een regel smaller voor de leesbaarheid</string>
-    <string name="pref_bottomToolbarOnText_title">Onderste vers navigatie</string>
-    <string name="pref_bottomToolbarOnText_summary">Zet de vers navigatie toolbar beneden op het Bijbel scherm</string>
-    <string name="pref_verseNumberIsShown_title">Toon vers nummers</string>
-    <string name="pref_verseNumberIsShown_summary">Toon de vers nummers aan het begin van elk vers</string>
+    <string name="pref_bottomToolbarOnText_title">Onderste paragraaf navigatie</string>
+    <string name="pref_bottomToolbarOnText_summary">Zet de paragraaf navigatie toolbar beneden op het HStaf scherm</string>
+    <string name="pref_verseNumberIsShown_title">Toon paragraaf nummers</string>
+    <string name="pref_verseNumberIsShown_summary">Toon de paragraaf nummers aan het begin van elk paragraaf</string>
     <!-- about -->
     <string name="about_text_desc" tools:ignore="AndroidLintStringFormatInvalid">“Hear ye the Rod, and Who hath appointed It.” Mic. 6:9.</string>
     <string name="about_translators">Vertalers</string>

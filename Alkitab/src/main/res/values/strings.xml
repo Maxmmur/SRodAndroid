@@ -38,7 +38,7 @@
     <string name="perj_lama">Old Test.</string>
     <string name="search_bookname_only">%s only</string>
     <string name="ayat_sebelumangka">Paragraph</string>
-    <string name="pasal_sebelumangka">Chapter</string>
+    <string name="pasal_sebelumangka">Page</string>
     <string name="jump_to_prompt"><b>JUMP TO</b> — Example: ^1</string>
     <string name="belum_ada_pembatas_buku">No bookmarks yet.\nSelect a paragraph to add a bookmark.</string>
     <string name="judul_titikdua">Title</string>
@@ -91,7 +91,7 @@
     <string name="hebrew_charset">Hebrew charset</string>
     <string name="pdb_encoding">PDB encoding</string>
     <string name="sample_text">Sample text</string>
-    <string name="include_book_and_chapter_headers">Include book and chapter headers</string>
+    <string name="include_book_and_chapter_headers">Include book and page headers</string>
     <string name="select_all">Select all</string>
 
     <string name="cp_opening_pdb_file">Opening PDB file</string>
@@ -104,7 +104,7 @@
     <string name="cp_writing_num_section_pericope_titles">Writing %s section/pericope titles</string>
     <string name="cp_writing_translated_file">Writing translated file</string>
     <string name="cp_reading_book_info">Reading book info: %s</string>
-    <string name="cp_writing_text_of_book_chapters">Writing text of book %1$s (%2$s chapters)</string>
+    <string name="cp_writing_text_of_book_chapters">Writing text of book %1$s (%2$s pages)</string>
 
     <!-- Versions -->
     <string name="ed_type_key">Type</string>
@@ -269,8 +269,8 @@
     <string name="desc_delete">Delete</string>
     <string name="desc_change_selected_books">Change selected books</string>
     <string name="desc_download">Download</string>
-    <string name="desc_previous_chapter">Previous chapter</string>
-    <string name="desc_next_chapter">Next chapter</string>
+    <string name="desc_previous_chapter">Previous page</string>
+    <string name="desc_next_chapter">Next page</string>
     <string name="desc_drag_to_reorder_labels">Drag to reorder labels</string>
     <string name="desc_drag_to_reorder_versions">Drag to reorder versions</string>
     <string name="desc_close">Close</string>

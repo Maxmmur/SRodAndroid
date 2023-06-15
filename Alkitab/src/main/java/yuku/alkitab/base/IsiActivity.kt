@@ -1273,6 +1273,8 @@ class IsiActivity : BaseLeftDrawerActivity(), LeftDrawer.Text.Listener {
             }
         }
 
+        //checkDownloaded()
+
         // first display of active version
         displayActiveVersion()
 
@@ -2056,6 +2058,13 @@ class IsiActivity : BaseLeftDrawerActivity(), LeftDrawer.Text.Listener {
         textAppearancePanel?.displayValues()
 
         App.getLbm().sendBroadcast(Intent(ACTION_NIGHT_MODE_CHANGED))
+    }
+
+    private fun checkDownloaded() {
+        // If there is no db versions, immediately open manage version screen.
+        if (S.db.listAllVersions().isEmpty()) {
+            startActivity(VersionsActivity.createIntent())
+        }
     }
 
     private fun openVersionsDialog() {
