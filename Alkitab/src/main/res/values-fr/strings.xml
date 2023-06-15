@@ -34,8 +34,8 @@
     <string name="copy_split1">Copier la seconde version</string>
     <string name="copy_both_splits">Copier les deux versions</string>
     <string name="search_copy_selected_verses">Copier les paragraphes séléctionnés</string>
-    <string name="perj_baru">NT.</string>
-    <string name="perj_lama">AT.</string>
+    <string name="perj_baru">Les Codes</string>
+    <string name="perj_lama">La Verge</string>
     <string name="search_bookname_only">%s seulement</string>
     <string name="ayat_sebelumangka">Paragraphe</string>
     <string name="pasal_sebelumangka">Page</string>
@@ -389,6 +389,7 @@
     <string name="menuPlay">Jouer</string>
     <string name="menuPause">Mettre en Pause</string>
     <string name="left_drawer_current_reading_title">Lecture en cours</string>
+
     <string name="book_filter_old_testament">Ancien Testament</string>
     <string name="book_filter_old_pentateuch">Pentateuque</string>
     <string name="book_filter_old_history">Historique</string>
@@ -401,6 +402,7 @@
     <string name="book_filter_new_pauline_epistles">Epitres de Paul</string>
     <string name="book_filter_new_general_epistles">Epitres généraux</string>
     <string name="book_filter_new_apocalypse">Apocalypse</string>
+
     <string name="search_filter_multiple_books_selected">%s de livres sélectionnés</string>
     <string name="search_version_select_label">Rechercher dans :</string>
     <string name="show_hidden_version_warning">L\'activation de cette option vous permet de télécharger des versions de la Verge qui peuvent être soumises à certaines exigences régionales ou monétaires . Avant de les télécharger , s\'il vous plaît assurez-vous que vous êtes autorisé à le faire. Vous êtes entièrement responsable du téléchargement et de l\'utilisation de ces versions et je ne puis en être tenu pour responsable. Appuyez sur OK si vous acceptez les termes ci-dessus .</string>

@@ -34,8 +34,8 @@
     <string name="copy_split1">Kopieer secundaire versie</string>
     <string name="copy_both_splits">Kopieer beide versies</string>
     <string name="search_copy_selected_verses">Kopieer geselecteerde paragraaf</string>
-    <string name="perj_baru">Nieuwe Test.</string>
-    <string name="perj_lama">Oude Test.</string>
+    <string name="perj_baru">SCode</string>
+    <string name="perj_lama">HStaf</string>
     <string name="search_bookname_only">Alleen in %s</string>
     <string name="ayat_sebelumangka">Paragraaf</string>
     <string name="pasal_sebelumangka">Bladzijde</string>
@@ -389,6 +389,7 @@
     <string name="menuPlay">Afspelen</string>
     <string name="menuPause">Pauze</string>
     <string name="left_drawer_current_reading_title">Huidig aan het lezen</string>
+
     <string name="book_filter_old_testament">Oude Testament</string>
     <string name="book_filter_old_pentateuch">Pentateuch</string>
     <string name="book_filter_old_history">Geschiedenis</string>
@@ -401,6 +402,7 @@
     <string name="book_filter_new_pauline_epistles">Brieven van Paulus</string>
     <string name="book_filter_new_general_epistles">Algemene brieven</string>
     <string name="book_filter_new_apocalypse">Openbaring</string>
+
     <string name="search_filter_multiple_books_selected">%s boeken geselecteerd</string>
     <string name="search_version_select_label">Zoeken in:</string>
     <string name="show_hidden_version_warning">Inschakelen van deze optie geeft je de mogelijkheid om HStafversies te downloaden die onderworpen kunnen zijn aan bepaalde regionale beperkingen. Voordat je ze download, controleer of je de nodige toestemming hebt. Je bent volledig verantwoordelijk voor het downloaden en gebruiken van deze versies, ik kan hier niet verantwoordelijk voor worden gehouden. Klik op OK als je akkoord gaat met bovenstaande.</string>

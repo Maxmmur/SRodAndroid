@@ -34,8 +34,8 @@
     <string name="copy_split1">Copiar versión secundaria</string>
     <string name="copy_both_splits">Copiar ambas versiones</string>
     <string name="search_copy_selected_verses">Copiar párrafos seleccionados</string>
-    <string name="perj_baru">Nuevo Test.</string>
-    <string name="perj_lama">Viejo Test. </string>
+    <string name="perj_baru">Los Codigos</string>
+    <string name="perj_lama">La Vara </string>
     <string name="search_bookname_only">Solo %s</string>
     <string name="ayat_sebelumangka">Párrafo</string>
     <string name="pasal_sebelumangka">Página</string>
@@ -389,6 +389,7 @@
     <string name="menuPlay">Reproducir</string>
     <string name="menuPause">Pausa</string>
     <string name="left_drawer_current_reading_title">Lectura actual</string>
+
     <string name="book_filter_old_testament">Antiguo Testamento</string>
     <string name="book_filter_old_pentateuch">Pentateuco</string>
     <string name="book_filter_old_history">Historia</string>
@@ -401,6 +402,7 @@
     <string name="book_filter_new_pauline_epistles">Epístolas Paulinas</string>
     <string name="book_filter_new_general_epistles">Epístolas Generales</string>
     <string name="book_filter_new_apocalypse">Apocalipsis</string>
+
     <string name="search_filter_multiple_books_selected">%s libros seleccionados</string>
     <string name="search_version_select_label">Encontrar en:</string>
     <string name="show_hidden_version_warning">Habilitar esta opción de permite descargar versiones de la Vara que pueden estar sujetas a ciertos requisitos regionales o monetarios. Antes de descargarlos por favor asegúrate que estas autorizado.

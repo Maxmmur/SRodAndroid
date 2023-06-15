@@ -34,8 +34,8 @@
     <string name="copy_split1">Copy secondary version</string>
     <string name="copy_both_splits">Copy both versions</string>
     <string name="search_copy_selected_verses">Copy selected paragraphs</string>
-    <string name="perj_baru">New Test.</string>
-    <string name="perj_lama">Old Test.</string>
+    <string name="perj_baru">SCode Series</string>
+    <string name="perj_lama">SRod Series</string>
     <string name="search_bookname_only">%s only</string>
     <string name="ayat_sebelumangka">Paragraph</string>
     <string name="pasal_sebelumangka">Page</string>
