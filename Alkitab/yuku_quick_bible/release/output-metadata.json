@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.gadsda.shepherdsrod.davidian",
+  "variantName": "yuku_quick_bibleRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 24144200,
+      "versionName": "5.0.0",
+      "outputFile": "Alkitab-yuku_quick_bible-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
