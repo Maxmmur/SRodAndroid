@@ -5,9 +5,9 @@ object BookColorUtil {
     @JvmStatic
     fun getForegroundOnDark(bookId: Int): Int {
         return when (bookId) {
-            in 0..38 -> // OT
+            in 0..78 -> // OT
                 0xff_ff80ab.toInt() // Accent Pink 100
-            in 39..65 -> // NT
+            in 79..135 -> // NT
                 0xff_82b1ff.toInt() // Accent Blue 100
             else -> // others
                 0xff_e0e0e0.toInt() // Grey 200
