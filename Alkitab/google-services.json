@@ -11,7 +11,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:0000000000:android:0000000000",
         "android_client_info": {
-          "package_name": "yuku.alkitab.debug"
+          "package_name": "com.gadsda.shepherdsrod.davidian"
         }
       },
       "oauth_client": [
